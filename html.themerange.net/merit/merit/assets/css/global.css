@@ -67,8 +67,8 @@
 :root {
 	
 	/* #124a94 in decimal RGB */
-	--main-color: rgb(18,74,148);
-	--main-color-rgb:18,74,148;
+	--main-color: #e83746;
+		--main-color-rgb: 15, 087, 943;
 	
 	/* #222222 in decimal RGB */
 	--color-two: rgb(34,34,34);
@@ -95,7 +95,7 @@
 	--color-seven-rgb:235,235,235;
 	
 	/* #0b3f83 in decimal RGB */
-	--color-eight: rgb(11,63,131);
+	--color-eight: #1d3557;
 	--color-eight-rgb:11,63,131;
 	
 	/* #eff3fa in decimal RGB */
